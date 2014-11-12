@@ -1,4 +1,8 @@
 Git-Hg-Rosetta-Stone
 ====================
 
-Fork of https://github.com/sympy/sympy/wiki/Git-hg-rosetta-stone/eb04a48a4830c1cb71fd04a56e8aaf8b4517329c#Rosetta_Stone
+View the wiki at https://github.com/dotnetchris/Git-Hg-Rosetta-Stone/wiki/Git-hg-rosetta-stone
+
+---
+
+Fork of https://github.com/sympy/sympy/wiki/Git-hg-rosetta-stone/
